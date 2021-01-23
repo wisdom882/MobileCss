@@ -12,6 +12,16 @@ body{
     color: whitesmoke;
     padding: 7rem;
 }
+.navbar a{
+    color: #ccc;
+    text-decoration: none;
+    
+}
+
+.navbar a:hover{
+    color:turquoise;
+}
+
 ul{
      margin: 0;
      display: flex;
@@ -24,15 +34,6 @@ ul{
 
 ul li{
     margin: .5rem 0;
-}
-.navbar a{
-    color: #ccc;
-    text-decoration: none;
-    
-}
-
-.navbar a:hover{
-    color:turquoise;
 }
 
 /*
